@@ -1,1 +1,1 @@
-route localhost/api/
+route localhost/api/s
